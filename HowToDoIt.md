@@ -96,6 +96,10 @@ New -> Web Service -> Válaszd ki a listából a progjekt nevét (student-regist
 Language: Docker
 -> Deploy web service Kb 15 percig eltart a deploy.
 
+## Build failed
+
+Ha valamit elrontottál is kijavítod, utána a render.com-on -> Manual Deploy -> Deploy latest commit
+
 ## SSH key
 
 Ez alapján hozd létre: https://github.com/settings/ssh/new
