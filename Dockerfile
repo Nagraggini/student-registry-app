@@ -2,7 +2,7 @@
 # Java verzió a pom.xml-ben van beállítva (Java 17).
 
 # A from sor létrehoz egy ideiglenes konténert. 
-FROM maven:3.5.11-openjdk-17 AS build 
+FROM maven:3.8.5-openjdk-17 AS build 
 # Fordításra szolgál.
 WORKDIR /app
 COPY . .
