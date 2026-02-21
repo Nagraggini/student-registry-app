@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class StudentRegistryAppApplication {
-
+	// ! DTO-t megvalósítani.
 	public static void main(String[] args) {
 		SpringApplication.run(StudentRegistryAppApplication.class, args);
 	}
