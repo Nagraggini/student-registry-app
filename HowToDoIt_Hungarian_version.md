@@ -158,6 +158,8 @@ Entert nyomj.
 pl.: psql -h dpg-d69k87buibrs739i5fu0-a.frankfurt-postgres.render.com -U database_olpd_user -d database_olpd
 A jelszónak az oldalon lévő password-t másold be. Nem fogja mutatni. Majd entert nyomj.
 
+Ez egy teljesen üres adatbázis táblák nélkül. Később létrehozzuk a táblákat és adattagokat is.
+
 # application.properties beállítasa
 
 Az application.properties fájlban rendeljük össze a weboldalt a render.com-os adatbázissal.
