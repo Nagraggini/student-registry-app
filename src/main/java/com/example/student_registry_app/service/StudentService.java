@@ -1,3 +1,9 @@
+package com.example.student_registry_app.service;
+
+public class StudentService {
+
+}
+
 /*
  * from js import document
  * 
