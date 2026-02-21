@@ -68,6 +68,20 @@ Delete – törlés
 PostgreSQL Driver
 Lehetővé teszi az alkalmazás számára a PostgreSQL adatbázishoz való csatlakozást.
 
+# Dockerfile
+
+Az alkalmazás győkér könyvtárába hozd létre egyből a Dockerfile, ne adj neki kiterjesztést, txt-t sem.
+
+Ez a Dockerfile a Spring Boot alkalmazás konténerizálására szolgál.
+
+A célja, hogy az alkalmazásodat lefordítsa és futtassa egy Docker konténerben, így bárhol ugyanúgy működjön (Render, saját gép, stb.).
+
+Ez az egész Dockerfile arra kell, hogy:
+
+- lefordítsa a Spring Boot projektet
+- JAR fájlt készítsen
+- elindítsa egy konténerben
+
 # Projekt feltöltése githubra és render.com-ra
 
 https://github.com/-ra regisztrálj be.
