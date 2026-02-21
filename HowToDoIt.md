@@ -82,6 +82,8 @@ Ez az egész Dockerfile arra kell, hogy:
 - JAR fájlt készítsen
 - elindítsa egy konténerben
 
+# application.properties beállítasa
+
 # Projekt feltöltése githubra és render.com-ra
 
 https://github.com/-ra regisztrálj be.
